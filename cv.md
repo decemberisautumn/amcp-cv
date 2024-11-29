@@ -1,6 +1,6 @@
-# CV
-
 ## Inchenkov Mikhail
+
+![](./profile_picture.png)
 
 E-mail: [st132723@student.spbu.ru](mailto:st132723@student.spbu.ru)
 
@@ -11,10 +11,12 @@ E-mail: [st132723@student.spbu.ru](mailto:st132723@student.spbu.ru)
 Freshman student at St. Petersburg State University. I'm interested in networking and compiler development.
 
 Skills:
+
 - Intermediate C programming language competency, basics of C++
 - Surface level knowledge of OOP and Git.
 
 Languages I speak:
+
 - Russian: Native speaker
 - English: B2
 
