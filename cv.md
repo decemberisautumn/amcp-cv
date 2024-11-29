@@ -8,7 +8,7 @@ E-mail: [st132723@student.spbu.ru](mailto:st132723@student.spbu.ru)
 
 ### About me
 
-Freshman student at St. Petersburg State University. I'm interested in networking and compiler development.
+Freshman student at St. Petersburg State University. I'm interested in learning networking and compiler development.
 
 Skills:
 
